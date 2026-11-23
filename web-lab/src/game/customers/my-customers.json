@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "伯爵夫人",
+    "intro": "戴著珍珠項鍊的親切貴婦",
+    "budget": 150,
+    "wants": ["玉米鍋貼", "紅茶"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 10,
+    "lines": {
+      "bought": "太好吃了，下次再來！",
+      "hated_on_menu": "這裡每樣都很棒。",
+      "not_on_menu": "沒有玉米鍋貼也沒關係。",
+      "sold_out": "賣完了呀，明天再來。",
+      "too_expensive": "稍貴一點，我下次再買。"
+    }
+  },
+  {
+    "name": "銀行家先生",
+    "intro": "西裝筆挺，出手大方",
+    "budget": 150,
+    "wants": ["招牌鍋貼", "酸辣湯"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 10,
+    "lines": {
+      "bought": "品質很棒，不用找了！",
+      "hated_on_menu": "菜色豐富，真好。",
+      "not_on_menu": "沒有招牌也無妨。",
+      "sold_out": "生意真好，我明天再來。",
+      "too_expensive": "有點貴，下次再說。"
+    }
+  },
+  {
+    "name": "古董收藏家",
+    "intro": "愛品茶、和藹的老紳士",
+    "budget": 150,
+    "wants": ["韭菜鍋貼", "紅茶"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 10,
+    "lines": {
+      "bought": "這茶與鍋貼，相得益彰。",
+      "hated_on_menu": "每樣都好，真不錯。",
+      "not_on_menu": "沒有韭菜鍋貼，下次吧。",
+      "sold_out": "賣完了？生意興隆啊。",
+      "too_expensive": "這價錢，我下次再來。"
+    }
+  }
+]
